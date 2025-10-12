@@ -6,11 +6,5 @@
 
 ---
 
-## 👀 What’s inside?
 
-Just a README that says *README*.
-
-Sometimes, the message **is** the message.
-
----
 
